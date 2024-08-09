@@ -5,5 +5,5 @@ ls -l
 echo
 
 echo "#### free space####"
-free -m
+df -h
 echo
